@@ -30,7 +30,7 @@ Welcome to the classic **Rock Paper Scissors** game, brought to life with modern
 
 ## 📸 Screenshots
 
-![Rock Paper Scissors Preview](/assets/.screenshot-1.png)
+![Rock Paper Scissors Preview](/assets./screenshot-1.png)
 
 
 ---

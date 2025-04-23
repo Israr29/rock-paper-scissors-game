@@ -16,7 +16,7 @@ Welcome to the classic **Rock Paper Scissors** game, brought to life with modern
 
 ## 🚀 Live Demo
 
-🌐 [Check it out here!](#) *(Add your deployed link here—like GitHub Pages or Firebase)*
+🌐 [Check it out here!](https://israr29.github.io/rock-paper-scissors-game/) 
 
 ---
 

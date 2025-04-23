@@ -34,6 +34,18 @@ Welcome to the classic **Rock Paper Scissors** game, brought to life with modern
 
 ---
 
+[![React Version Coming Soon](https://img.shields.io/badge/React-Version%20Coming%20Soon-blue?style=for-the-badge&logo=react)](#)
+
+
+---
+
+📬 Contact
+Got feedback or ideas? Let’s connect!
+[Israr Ahmed] – im.israrahmed29@gmail.com
+
+
+
+
 ## 📁 How to Run Locally
 
 ```bash
@@ -43,10 +55,5 @@ open index.html   # Or use Live Server in VS Code
 
 
 
-📬 Contact
-Got feedback or ideas? Let’s connect!
-[Israr Ahmed] – im.israrahmed29@gmail.com
-
-[![React Version Coming Soon](https://img.shields.io/badge/React-Version%20Coming%20Soon-blue?style=for-the-badge&logo=react)](#)
 
 

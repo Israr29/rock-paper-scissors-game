@@ -45,7 +45,8 @@ Welcome to the classic **Rock Paper Scissors** game, brought to life with modern
 
 📬 Contact
 Got feedback or ideas? Let’s connect!
-[Israr Ahmed] – im.israrahmed29@gmail.com
+Israr Ahmed
+Email - im.israrahmed29@gmail.com
 
 
 

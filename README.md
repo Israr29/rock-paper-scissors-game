@@ -38,7 +38,7 @@ Welcome to the classic **Rock Paper Scissors** game, brought to life with modern
 
 ---
 
-[![React Version Coming Soon](https://img.shields.io/badge/React-Version%20Coming%20Soon-blue?style=for-the-badge&logo=react)](#)
+
 
 
 ---

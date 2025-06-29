@@ -23,7 +23,7 @@ Welcome to the classic **Rock Paper Scissors** game, brought to life with modern
 ## 🧰 Tech Stack
 
 - HTML5
-- CSS3 (Flexbox, Transitions)
+- CSS3 (Flexbox)
 - Vanilla JavaScript (DOM manipulation, game logic)
 
 ---

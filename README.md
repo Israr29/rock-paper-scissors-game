@@ -51,12 +51,6 @@ Email - im.israrahmed29@gmail.com
 
 
 
-## 📁 How to Run Locally
-
-```bash
-git clone https://github.com/Israr29/rock-paper-scissors-game.git
-cd rock-paper-scissors
-open index.html   # Or use Live Server in VS Code
 
 
 

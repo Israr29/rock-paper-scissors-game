@@ -1,6 +1,7 @@
 # 🪨📄✂️ Rock Paper Scissors Game
 
-Welcome to the classic **Rock Paper Scissors** game, brought to life with modern web tech! 🎮 This fun, interactive project is built using **HTML, CSS, and JavaScript**—perfect for anyone who enjoys simple games and clean UI.
+Welcome to the classic **Rock Paper Scissors** game, brought to life with modern web tech! 🎮 
+This fun, interactive project is built using **HTML, CSS, and JavaScript**—perfect for anyone who enjoys simple games and clean UI.
 
 ---
 
